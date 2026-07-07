@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="60" fill="#2f4a3c"/>
+  <g fill="none" stroke="#e9e2d0" stroke-width="1.6">
+    <path d="M60 34 L74 74 L46 74 Z"/>
+    <path d="M60 46 L68 70 L52 70 Z"/>
+  </g>
+  <text x="60" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#e9e2d0">MIRASHYA</text>
+  <text x="60" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="7" letter-spacing="3" fill="#c9c0a8">HOMES</text>
+</svg>
